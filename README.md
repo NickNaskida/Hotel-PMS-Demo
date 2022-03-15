@@ -3,6 +3,8 @@
 ![home page](media/home.png)
 
 ### Hotel PMS - სასტუმროს მართვის სისტემა
+
+#### Contact me to have a live demo version to test, play around with it.
 ---
 ⚪️ სტუმრის პროფილის ძებნა
 
