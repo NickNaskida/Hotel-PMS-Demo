@@ -4,7 +4,9 @@
 
 ### Hotel PMS - სასტუმროს მართვის სისტემა
 
-#### Contact me to have a live demo version to test, play around with it.
+**https://hotel-pms.herokuapp.com/**
+ - login: testacc
+ - pass: hotelpms-123
 ---
 ⚪️ Guest Search / სტუმრის პროფილის ძებნა
 
