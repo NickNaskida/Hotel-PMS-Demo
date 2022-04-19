@@ -6,59 +6,59 @@
 
 #### Contact me to have a live demo version to test, play around with it.
 ---
-⚪️ სტუმრის პროფილის ძებნა
+⚪️ Guest Search / სტუმრის პროფილის ძებნა
 
 ![home page](media/search.png)
 ![home page](media/nothing.png)  
 
-⚪️ ოთახების, კვების, მომსახურებების დამატება
+⚪️ Add rooms, nutrition and services / ოთახების, კვების, მომსახურებების დამატება
 
 ![home page](media/rooms.png)
 ![home page](media/services.png)
 
-⚪️ მოქნილი ფასების კალენდარი, ფასების კონტროლი დღეების მიხედვით 
+⚪️ Flexible price calendar, price control by days / მოქნილი ფასების კალენდარი, ფასების კონტროლი დღეების მიხედვით 
 
 ![home page](media/price-calendar.png)
 ![home page](media/price-calendar-1.png)
 ![home page](media/price-calendar-2.png)
 
-⚪️ სტუმრის პროფილები, მათი ინფორმაციის რეგისტრაცია
+⚪️ Guest Profiles / სტუმრის პროფილები, მათი ინფორმაციის რეგისტრაცია
 
 ![home page](media/guests.png)
 ![home page](media/guests-1.png)
 
-⚪️ ჯავშანი, ოთახების დაბლოკვა
+⚪️ Room Reservation, Blocking / ჯავშანი, ოთახების დაბლოკვა
 
 ![home page](media/reservations.png)
 ![home page](media/reservations-1.png)
 ![home page](media/reservations-2.png)
 
-⚪️ ჯავშნების ისტორია
+⚪️ Reservation History / ჯავშნების ისტორია
 
 ![home page](media/reservations-history.png)
 
-⚪️ გადახდის და ჯავშნის ინვოისების ავტომატური შექმნა, ინგლისური/რუსული/ქართული ენის ინვოისები
+⚪️ Reservation and Payment Multilingual (English, Russian, Georgian) Invoices / გადახდის და ჯავშნის ინვოისების ავტომატური შექმნა, ინგლისური/რუსული/ქართული ენის ინვოისები
 
 ![home page](media/invoices.png)
 
-##### ჯავშნის ინვოისი
+##### Reservation Invoice / ჯავშნის ინვოისი
 
 ![home page](media/proforma.png)
 
-##### გადახდის ინვოისი
+##### Payment Invoice / გადახდის ინვოისი
 
 ![home page](media/commercial.png)
 
-⚪️ მომსახურებების თანხების დარიცხვა ჯავშანზე
+⚪️ Billing for Services / მომსახურებების თანხების დარიცხვა ჯავშანზე
 
 ![home page](media/billing.png)
 ![home page](media/new-billing.png)
 
-⚪️ გადახდები და მათთან დაკავშირებული ინფორმაციის აღრიცხვა
+⚪️ Payments and other connected information /  გადახდები და მათთან დაკავშირებული ინფორმაციის აღრიცხვა
 
 ![home page](media/payments.png)
 ![home page](media/new-payment.png)
 
-⚪️ სამენოვანი ინტერფეისი (ინგლისური/რუსული/ქართული)
+⚪️ Multilingual interface (English, Russian, Georgian) / სამენოვანი ინტერფეისი (ინგლისური/რუსული/ქართული)
 
-⚪️ მონაცემების ფილტრები ყველან საჭირო ინფორმაციის სწრაფი ძებნისთვის
+⚪️ Data filters and user-friendly interface / მონაცემების ფილტრები ყველან საჭირო ინფორმაციის სწრაფი ძებნისთვის
