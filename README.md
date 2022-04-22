@@ -3,10 +3,13 @@
 ![home page](media/home.png)
 
 ### Hotel PMS - სასტუმროს მართვის სისტემა
+(This is beta version and many things could be changed, improved)
 
 **https://hotel-pms.herokuapp.com/**
  - login: testacc
  - pass: hotelpms-123
+
+
 ---
 ⚪️ Guest Search / სტუმრის პროფილის ძებნა
 
