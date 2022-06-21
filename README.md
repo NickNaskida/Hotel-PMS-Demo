@@ -22,6 +22,7 @@
 ![home page](media/services.png)
 
 ⚪️ Flexible price calendar, price control by days
+
 ![home page](media/price-calendar.png)
 ![home page](media/price-calendar-1.png)
 ![home page](media/price-calendar-2.png)
