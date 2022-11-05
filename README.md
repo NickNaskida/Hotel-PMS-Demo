@@ -5,10 +5,6 @@
 ### Hotel PMS - Hotel management system
 (This is beta version and many things could be changed, improved)
 
-**https://hotel-pms.herokuapp.com/**
- - login: testacc
- - pass: hotelpms-123
-
 
 ---
 ⚪️ Guest Search
